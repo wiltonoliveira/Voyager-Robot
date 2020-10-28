@@ -1,0 +1,7 @@
+{
+    "name": "Voyager",
+    "tag": "wsoj",
+    "pilot": "Wilton Oliveira",
+    "mainFile": "src/wsoj/Voyager.java",
+    "supportFiles": []
+}
